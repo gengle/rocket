@@ -59,7 +59,7 @@
     "commander": "^9.0.0",
     "fs-extra": "^9.0.1",
     "gray-matter": "^4.0.3",
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "plugins-manager": "^0.3.0",
     "puppeteer": "^13.0.0"
   },
