@@ -61,7 +61,7 @@
     "gray-matter": "^4.0.3",
     "ip": "^1.1.5",
     "plugins-manager": "^0.3.0",
-    "puppeteer": "^13.0.0"
+    "puppeteer": "^23.11.1"
   },
   "devDependencies": {
     "@types/ip": "^1.1.0",
