@@ -44,7 +44,7 @@
     "xprestart": "npm run analyze"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.20.0",
+    "@changesets/cli": "^2.29.6",
     "@custom-elements-manifest/analyzer": "^0.4.12",
     "@open-wc/testing": "^3.1.2",
     "@playwright/test": "^1.18.1",
